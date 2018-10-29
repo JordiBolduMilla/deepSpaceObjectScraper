@@ -1,10 +1,10 @@
 # PAC 1 : Web Scraping 
 
-*** En construcció ***
+***En construcció***
 
 ## Descripció ##
 
-El projecte de Web Scraping consisteix en navegar per la pàgina web http://atlasdeastronomia.com/constelaciones, extreure el llistat de constel.lacions i, a partir de cada una d'aquestes, accedir a la seva respectiva pàgina web per obenir les dades dels anomenats "Objetos de cielo profundo" (o "deep space objects")
+El projecte de Web Scraping consisteix en navegar per la pàgina web http://atlasdeastronomia.com/constelaciones, extreure el llistat de constel.lacions i, a partir de cada una d'aquestes pàgines, navegar per a elles i obtenir les dades dels objectes de l'espai profund ( "Objetos de cielo profundo" o "deep space objects")
 
 Les dades obtingudes per cada "deep space object" (afegint el nom de la constel.lació on estan situats i que obtenim de la pàgina d'on provenim) és la informació què desem al dataset i que, segueix el següent format (exemple)
 
@@ -18,6 +18,7 @@ Les dades obtingudes per cada "deep space object" (afegint el nom de la constel.
 - declinació : 25º22'
 - constelacio : Vulpecula
 
+Així doncs, hi ha una primera navegació per obtenir totes les constel.lacions i, a continuació, es navega per la pàgina de cada constel.lació per obtenir els objectes de l'espai profund
 
 El projecte 'deepSpaceObjectScraper' consta de 2 carpetes:
 
