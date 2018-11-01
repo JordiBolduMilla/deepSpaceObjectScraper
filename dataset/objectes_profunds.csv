@@ -1,3 +1,4 @@
+nom_complert_objecte;codi_catalogacio_1;codi_catalogacio_2;magnitud;tipus_objecte;tamany;ascensio_rectal;declinacio;constelacio
 NGC7293/PK36-57.1;NGC7293;PK36-57.1;6.3;Nebulosa Planetaria 4(3);960s × 720s;22h 29.6m;-20º50';Aquarius
 NGC7089/M2;NGC7089;M2;6.5;Cúmulo Globular II;11.7m;21h 33.5m;0º49';Aquarius
 NGC7009/PK37-34.1;NGC7009;PK37-34.1;8.3;Nebulosa Planetaria 4(6);28s × 23s;21h 4.2m;-11º22';Aquarius
@@ -119,9 +120,9 @@ NGC720/MCG-2-5-68;NGC720;MCG-2-5-68;10.2;Galaxia E4;4.4m × 2.2m;1h 53.0m;-13º4
 NGC908/ESO545-11;NGC908;ESO545-11;10.2;Galaxia SBc;6.1m × 2.7m;2h 23.1m;-21º14';Cetus
 NGC157/MCG-2-2-56;NGC157;MCG-2-2-56;10.4;Galaxia SBbc;4.1m × 2.7m;0h 34.8m;-8º24';Cetus
 NGC246/PK118-74.1;NGC246;PK118-74.1;10.4;Nebulosa Planetaria 3b;240s × 210s;0h 47.1m;-11º52';Cetus
-"NGC584/IC1712;HI100";NGC584;IC1712;10.5;Galaxia E4;3.3m × 1.9m;1h 31.3m;-6º52';Cetus
+NGC584/IC1712/HI100;NGC584;IC1712;10.5;Galaxia E4;3.3m × 1.9m;1h 31.3m;-6º52';Cetus
 NGC1052/MCG-1-7-34;NGC1052;MCG-1-7-34;10.5;Galaxia Elliptical;2.8m × 2m;2h 41.1m;-8º15';Cetus
-"MCG-03-01-015/UGCA444;WLM";MCG-03-01-015;UGCA444;10.6;Galaxia ;11m × 4m;0h 1.9m;-15º27';Cetus
+MCG-03-01-015/UGCA444/WLM;MCG-03-01-015;UGCA444;10.6;Galaxia ;11m × 4m;0h 1.9m;-15º27';Cetus
 NGC45/UGCA4;NGC45;UGCA4;10.6;Galaxia SBd;7.6m × 5.4m;0h 14.1m;-23º11';Cetus
 NGC1055/UGC2173;NGC1055;UGC2173;10.6;Galaxia SBb;7.6m × 3m;2h 41.8m;0º27';Cetus
 NGC1087/UGC2245;NGC1087;UGC2245;10.9;Galaxia SBc Ring;3.9m × 2.3m;2h 46.4m;0º30';Cetus
@@ -168,7 +169,7 @@ NGC2772/ESO497-14;NGC2772;ESO497-14;13.4;Galaxia Sb;1.5m × 0.9m;9h 7.7m;-23º37
 PK244+12.1/Abell29;PK244+12.1;Abell29;14.3;Nebulosa Planetaria 4;6.6m;8h 40.2m;-20º54';Pyxis
 PK253+10.1/K1-2;PK253+10.1;K1-2;15.3;Nebulosa Planetaria 2;63s × 54s;8h 57.8m;-28º57';Pyxis
 NGC2883/ESO372-24;NGC2883;ESO372-24;16.0;Galaxia Ir;2.7m × 0.9m;9h 25.3m;-34º6';Pyxis
-"PK252+4.1/Abell27;K1-1";PK252+4.1;Abell27;17.9;Nebulosa Planetaria 3b;59.0s;8h 31.8m;-32º5';Pyxis
+PK252+4.1/Abell27/K1-1;PK252+4.1;Abell27;17.9;Nebulosa Planetaria 3b;59.0s;8h 31.8m;-32º5';Pyxis
 Ru72;Ru72;;99.9;Cúmulo Abierto IV 1p :b;1.4m;8h 52.1m;-37º36';Pyxis
 Ru158;Ru158;;99.9;Cúmulo Abierto III 2p :b;2.5m;8h 52.4m;-37º34';Pyxis
 NGC1679/ESO422-1;NGC1679;ESO422-1;11.5;Galaxia SBp;2.7m × 2m;4h 49.9m;-31º58';Caelum
@@ -307,7 +308,7 @@ NGC7789/OCL269;NGC7789;OCL269;6.7;Cúmulo Abierto II 1 r;16m;23h 57.4m;56º43';C
 Cr34;Cr34;;6.8;Cúmulo Abierto I 3 p;25m;2h 59.4m;60º34';Cassiopeia
 NGC7654/M52;NGC7654;M52;6.9;Cúmulo Abierto I 2 r;13m;23h 24.2m;61º35';Cassiopeia
 Stock5;Stock5;;7.0;Cúmulo Abierto IV 2 p;15m;2h 4.5m;64º23';Cassiopeia
-"Tr3/Cr36;Harvard1";Tr3;Cr36;7.0;Cúmulo Abierto III 3 p;23m;3h 11.9m;63º11';Cassiopeia
+Tr3/Cr36/Harvard1;Tr3;Cr36;7.0;Cúmulo Abierto III 3 p;23m;3h 11.9m;63º11';Cassiopeia
 NGC225/OCL305;NGC225;OCL305;7.0;Cúmulo Abierto III 1 p n;12m;0h 43.6m;61º46';Cassiopeia
 NGC663/OCL333;NGC663;OCL333;7.1;Cúmulo Abierto III 2 m;16m;1h 46.0m;61º15';Cassiopeia
 Mrk6;Mrk6;;7.1;Cúmulo Abierto IV 2 p;4.5m;2h 29.6m;60º39';Cassiopeia
@@ -433,7 +434,7 @@ NGC3497/NGC3525;NGC3497;NGC3525;12.6;Galaxia SO;2.6m × 1.5m;11h 7.3m;-19º28';C
 NGC3525/NGC3497;NGC3525;NGC3497;12.6;Galaxia SO;2.6m × 1.5m;11h 7.3m;-19º28';Crater
 NGC3597/ESO503-3;NGC3597;ESO503-3;12.6;Galaxia Sa;1.8m × 1.4m;11h 14.7m;-23º44';Crater
 NGC6541/Dunlop473;NGC6541;Dunlop473;6.3;Cúmulo Globular III;13.1m;18h 8.0m;-43º42';Corona Australis
-"PK352-7.1/Fleming3;VV133";PK352-7.1;Fleming3;11.4;Nebulosa Planetaria 1;2s;18h 0.2m;-38º50';Corona Australis
+PK352-7.1/Fleming3/VV133;PK352-7.1;Fleming3;11.4;Nebulosa Planetaria 1;2s;18h 0.2m;-38º50';Corona Australis
 IC1297/PK358-21.1;IC1297;PK358-21.1;11.5;Nebulosa Planetaria ;8s × 6s;19h 17.4m;-39º37';Corona Australis
 NGC6768/ESO337-18;NGC6768;ESO337-18;13.2;Galaxia Elliptical;1.7m × 1.5m;19h 16.5m;-40º13';Corona Australis
 PK354-7.1;PK354-7.1;;14.5;Nebulosa Planetaria 2;12.8s × 11s;18h 4.9m;-37º38';Corona Australis
@@ -488,7 +489,7 @@ NGC4038/ESO572-47;NGC4038;ESO572-47;10.3;Galaxia Sp;3.4m × 2m;12h 1.9m;-18º52'
 NGC4039/ESO572-48;NGC4039;ESO572-48;10.6;Galaxia SB;3.3m × 1.7m;12h 1.9m;-18º53';Corvus
 NGC4361/ESO573-PN19;NGC4361;ESO573-PN19;10.9;Nebulosa Planetaria 3a(2);80s;12h 24.5m;-18º47';Corvus
 NGC4027/ESO572-37;NGC4027;ESO572-37;11.1;Galaxia SBd;3.3m × 2.4m;11h 59.5m;-19º16';Corvus
-"NGC4783/3C278;HI136";NGC4783;3C278;11.5;Galaxia EO;2.3m × 1.3m;12h 54.6m;-12º34';Corvus
+NGC4783/3C278/HI136;NGC4783;3C278;11.5;Galaxia EO;2.3m × 1.3m;12h 54.6m;-12º34';Corvus
 NGC4782/MCG-2-33-50;NGC4782;MCG-2-33-50;11.7;Galaxia EO;2.3m × 1.3m;12h 54.6m;-12º34';Corvus
 NGC4024/ESO572-31;NGC4024;ESO572-31;11.7;Galaxia E-SO Bar;1.9m × 1.6m;11h 58.5m;-18º21';Corvus
 NGC4033/ESO572-42;NGC4033;ESO572-42;11.7;Galaxia Elliptical;2.4m × 1.2m;12h 0.6m;-17º51';Corvus
@@ -507,7 +508,7 @@ NGC4177/MCG-2-31-21;NGC4177;MCG-2-31-21;13.0;Galaxia Sc;1.7m × 1.2m;12h 12.7m;-
 NGC6934/GCL117;NGC6934;GCL117;8.9;Cúmulo Globular VIII;7m;20h 34.2m;7º24';Delphinus
 NGC6891/PK54-12.1;NGC6891;PK54-12.1;10.5;Nebulosa Planetaria 2a(2b);15.5s × 7s;20h 15.1m;12º42';Delphinus
 NGC7006/GCL119;NGC7006;GCL119;10.6;Cúmulo Globular I;2.8m;21h 1.5m;16º11';Delphinus
-"NGC6905/PK61-9.1;HIV16";NGC6905;PK61-9.1;12.0;Nebulosa Planetaria 3(3);44s × 38s;20h 22.4m;20º6';Delphinus
+NGC6905/PK61-9.1/HIV16;NGC6905;PK61-9.1;12.0;Nebulosa Planetaria 3(3);44s × 38s;20h 22.4m;20º6';Delphinus
 NGC6928/IC1326;NGC6928;IC1326;12.2;Galaxia SBab;2.1m × 0.6m;20h 32.8m;9º56';Delphinus
 NGC6956/UGC11619;NGC6956;UGC11619;12.3;Galaxia SBb;2m × 1.9m;20h 43.9m;12º31';Delphinus
 NGC7025/UGC11681;NGC7025;UGC11681;12.8;Galaxia Sa;1.9m × 1.2m;21h 7.8m;16º20';Delphinus
@@ -1404,7 +1405,7 @@ NGC6115/Ru118;NGC6115;Ru118;11.0;Cúmulo Abierto I 2 p;3m;16h 24.4m;-51º57';Nor
 Tr23/Cr295;Tr23;Cr295;11.2;Cúmulo Abierto II 2 p;5m;16h 0.8m;-53º31';Norma
 Lynga4;Lynga4;;11.4;Cúmulo Abierto IV 2 p;3m;15h 33.3m;-55º13';Norma
 PK331-5.1/He2-172;PK331-5.1;He2-172;11.9;Nebulosa Planetaria ;5s;16h 38.0m;-55º42';Norma
-"PK329-2.2/Menzel2;VV78";PK329-2.2;Menzel2;11.9;Nebulosa Planetaria 4(3);25s × 21s;16h 14.5m;-54º57';Norma
+PK329-2.2/Menzel2/VV78;PK329-2.2;Menzel2;11.9;Nebulosa Planetaria 4(3);25s × 21s;16h 14.5m;-54º57';Norma
 NGC1261/GCL5;NGC1261;GCL5;8.4;Cúmulo Globular II;6.9m;3h 12.3m;-55º13';Horologium
 NGC1433/ESO249-14;NGC1433;ESO249-14;9.9;Galaxia SBa;6.1m × 5.7m;3h 42.0m;-47º13';Horologium
 NGC1512/ESO250-4;NGC1512;ESO250-4;10.3;Galaxia SBa;9.7m × 5.3m;4h 3.9m;-43º21';Horologium
