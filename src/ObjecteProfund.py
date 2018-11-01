@@ -1,6 +1,6 @@
 class ObjecteProfund:
     def __init__(self, nom, dades_objecte_profund, constelacio):
-        self.nom = nom.replace(" / ", "/")
+        self.nom = nom.replace(" / ", "/").replace(";","/")
         self.__dades_objecte_profund = dades_objecte_profund
         self.nom_catalogacio_1 = ""
         self.nom_catalogacio_2 = ""
@@ -12,9 +12,11 @@ class ObjecteProfund:
 
     def __cleanTokens(self, value):
         tokens = ['Magnitud: ', 'Tipo: ', 'Tamaño: ', 'AR: ', 'Dec: ']
+
         #Ar : ascencion recta
         #Dec : declinacion
         #Tamaño : m -> minuts d'arc, s -> segons d'arc
+
         tmp_value = value
         for token in tokens:
             tmp_value = tmp_value.replace(token, '')
